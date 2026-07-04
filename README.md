@@ -24,6 +24,9 @@ The environment consists of six Ubuntu virtual machines providing web services, 
 ```text
 ansible-system-automation/
 │
+├── img/
+│   └── architecture.png 
+│
 ├── Group15_FinalReport.pdf
 │
 ├── Group15_Slide.pdf
