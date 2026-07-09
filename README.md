@@ -1,4 +1,5 @@
 # Infrastructure Automation with Ansible
+
 ![Platform](https://img.shields.io/badge/Platform-VMware-blue)
 ![Automation](https://img.shields.io/badge/Automation-Ansible-red)
 ![IaC](https://img.shields.io/badge/Infrastructure-IaC-green)
@@ -31,13 +32,17 @@ ansible-system-automation/
 │
 ├── Group15_Slide.pdf
 │
+├── LICENSE
+│
 └── README.md
 ```
 
 ## Demo repository
-https://github.com/vuongdat67/NT132.Q11.ANTT-Group15
+
+<https://github.com/vuongdat67/NT132.Q11.ANTT-Group15>
 
 ## Infrastructure Architecture
+
 ![Architecture](img/architecture.png)
 
 ## Technologies Used
@@ -154,11 +159,3 @@ Verified successful deployment using:
 * Redis Administration
 * SSH Automation
 * YAML
-
-
-
-
-
-
-
-
